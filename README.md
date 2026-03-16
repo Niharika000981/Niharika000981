@@ -64,9 +64,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anilchetri01&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Niharika000981&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anilchetri01&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Niharika000981&theme=tokyonight"/>
 
 </p>
 
@@ -76,7 +76,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilchetri01&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharika000981&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -85,7 +85,7 @@
 # 📊 3D Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anilchetri01&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niharika000981&theme=tokyonight"/>
 </p>
 
 ---
@@ -114,10 +114,10 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Anilchetri01&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Niharika000981&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
 
 ---
 
-⭐ From [AnilChetri](https://github.com/Anilchetri01)
+⭐ From [AnilChetri](https://github.com/Niharika000981)
